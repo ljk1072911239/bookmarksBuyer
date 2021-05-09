@@ -1,0 +1,1 @@
+{'nfl': 'https://sports.sportingbet.com/pt-br/sports/futebol-americano-11/aposta/américa-do-norte-9/nfl-35', 'nba': 'https://sports.sportingbet.com/pt-br/sports/basquetebol-7/aposta/am%C3%A9rica-do-norte-9/nba-6004', 'mlb': 'https://sports.sportingbet.com/pt-br/sports/baseball-23/aposta/amï¿½rica-do-norte-9/mlb-75', 'naous': 'naous.com'}

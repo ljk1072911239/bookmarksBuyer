@@ -1,0 +1,1 @@
+{'nfl': 'https://sportsbet.io/pt/sports/american-football/usa/nfl/matches', 'mlb': 'https://sportsbet.io/pt/sports/baseball/usa/mlb/matches', 'ncaa': 'https://sportsbet.io/pt/sports/american-football/usa/ncaa-regular-season-standings/matches', 'nba': 'https://sportsbet.io/sports/basketball/usa/matches/future'}

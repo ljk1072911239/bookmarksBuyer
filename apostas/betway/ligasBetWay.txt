@@ -1,0 +1,1 @@
+{'nba': 'https://sports.betway.com/pt/sports/grp/basketball/usa/nba', 'nfl': 'https://sports.betway.com/pt/sports/grp/american-football/usa/nfl', 'naous': 'naou.com'}
